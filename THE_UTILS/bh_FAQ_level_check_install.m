@@ -1,0 +1,1 @@
+bh_utils.hlp_assert_valid_install();
